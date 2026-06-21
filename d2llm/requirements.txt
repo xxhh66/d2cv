@@ -1,0 +1,30 @@
+# ============================================
+# 稳定版本组合 - 让 pip 自动解决依赖
+# ============================================
+
+# LlamaIndex 核心
+llama-index-core==0.10.55
+
+# LlamaIndex LLM 支持
+llama-index-llms-ollama==0.1.3
+llama-index-llms-openai==0.1.6
+llama-index-llms-openai-like==0.1.3
+
+# LlamaIndex 常用扩展 (可选)
+llama-index-embeddings-openai==0.1.11
+llama-index-readers-file==0.1.33
+llama-index-agent-openai==0.1.7
+llama-index-cli==0.1.13
+
+# LangChain - 不限制具体版本，让 pip 解决
+langchain-ollama
+langchain-openai
+langchain-core
+
+# OpenAI
+openai>=1.0.0
+
+# 核心依赖 - 不指定版本，让 pip 自动选择兼容版本
+requests
+typing-extensions
+# 注意：不指定 pydantic 版本
