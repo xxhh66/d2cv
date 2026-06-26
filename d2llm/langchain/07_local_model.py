@@ -2,7 +2,7 @@
 from langchain.chat_models import init_chat_model
 
 llm = init_chat_model(
-    model="qwen2.5:7b",           # 与 ollama pull 的模型名一致
+    model="qwen3.5:4b",           # 与 ollama pull 的模型名一致
     model_provider="ollama",
     base_url="http://localhost:5005",  # Ollama 默认地址
     temperature=0.7,

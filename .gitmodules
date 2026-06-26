@@ -1,0 +1,6 @@
+[submodule "happy-llm"]
+	path = happy-llm
+	url = https://github.com/xxhh66/happy-llm.git
+[submodule "hello-agents"]
+	path = hello-agents
+	url = https://github.com/xxhh66/hello-agents.git
