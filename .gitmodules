@@ -7,3 +7,15 @@
 [submodule "base-llm"]
 	path = base-llm
 	url = https://github.com/xxhh66/base-llm.git
+[submodule "handy-ollama"]
+	path = handy-ollama
+	url = https://github.com/xxhh66/handy-ollama.git
+[submodule "easy-data-x-ai"]
+	path = easy-data-x-ai
+	url = https://github.com/xxhh66/easy-data-x-ai.git
+[submodule "easy-langent"]
+	path = easy-langent
+	url = https://github.com/xxhh66/easy-langent.git
+[submodule "deepagents-in-action"]
+	path = deepagents-in-action
+	url = https://github.com/datawhalechina/deepagents-in-action.git
