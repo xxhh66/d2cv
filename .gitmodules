@@ -19,3 +19,6 @@
 [submodule "deepagents-in-action"]
 	path = deepagents-in-action
 	url = https://github.com/datawhalechina/deepagents-in-action.git
+[submodule "ultralytics"]
+	path = ultralytics
+	url = https://github.com/xxhh66/ultralytics.git
