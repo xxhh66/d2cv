@@ -4,3 +4,6 @@
 [submodule "hello-agents"]
 	path = hello-agents
 	url = https://github.com/xxhh66/hello-agents.git
+[submodule "base-llm"]
+	path = base-llm
+	url = https://github.com/xxhh66/base-llm.git
