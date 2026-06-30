@@ -22,3 +22,9 @@
 [submodule "ultralytics"]
 	path = ultralytics
 	url = https://github.com/xxhh66/ultralytics.git
+[submodule "Agent-Learning-Hub"]
+	path = Agent-Learning-Hub
+	url = https://github.com/xxhh66/Agent-Learning-Hub.git
+[submodule "d2l-zh"]
+	path = d2l-zh
+	url = https://github.com/xxhh66/d2l-zh.git
