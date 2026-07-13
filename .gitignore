@@ -1,3 +1,4 @@
 
 *.env
 classic-model/code/datasets/
+d2l/datasets/
